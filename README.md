@@ -5,5 +5,5 @@ Here you will see the books that I have studied.
 ## Categorizes
 
 - Develop
-- CPP
+- Programming languages
 - Database
